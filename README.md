@@ -1,1 +1,1 @@
-# -Pattern-Pyramid
+*Pattern-Pyramid
